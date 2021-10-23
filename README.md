@@ -4,9 +4,6 @@
 https://user-images.githubusercontent.com/42896991/138557487-7e578347-aec0-474d-851a-9e357b1ddda1.mov
 
 
-Uploading Screen Recording 2021-10-23 at 5.42.21 AM.mov…
-
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
