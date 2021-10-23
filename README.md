@@ -1,8 +1,11 @@
-# User Story:
+# Tile-Game that utilizes react-redux library to manage state
+
+![Screen Shot 2021-10-23 at 4 32 29 PM](https://user-images.githubusercontent.com/42896991/138574441-137814d2-bb34-4f47-8f87-83c46d0ce60a.png)
+
+## User Story:
 
 
 https://user-images.githubusercontent.com/42896991/138557487-7e578347-aec0-474d-851a-9e357b1ddda1.mov
-
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
